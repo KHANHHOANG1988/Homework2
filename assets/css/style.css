@@ -1,0 +1,89 @@
+/*
+Color theme pulled from my bakground image - https://c4.wallpaperflare.com/wallpaper/214/442/543/digital-art-son-goku-dragon-ball-dragon-ball-z-island-hd-wallpaper-preview.jpg
+https://coolors.co/ccc476-4e6cc2-d96936-edaaa2-6c3521
+#CCC476 - gold
+#4E6CC2 - blue
+#D96936 - orange
+#EDAAA2 - pink
+#6C3521 - brown
+*/
+.gold{    background:#CCC476;}
+.blue{    background:#4E6CC2;}
+.orange{    background:#D96936;}
+.pink{    background:#EDAAA2;}
+.brown{    background:#6C3521;}
+
+
+
+body{
+    color:#333;
+  
+    background-repeat: repeat;
+}
+/*
+    Header
+*/
+
+header{
+    background-color: green;
+    border-bottom:#6C3521 2px solid;
+}
+
+.inner{
+    margin:auto;
+}
+
+.nav-link{
+    color:rgb(47, 33, 108);
+    font-weight:bold;
+}
+nav .active{
+    color:rgb(8, 8, 7);
+    ;
+
+}
+
+.title{
+    text-align:center;
+}
+
+a {
+    color:#D96936;
+}
+a:hover{
+    color:rgb(8, 8, 8);
+    
+}
+
+/*
+    Main Body
+*/
+h2{
+    color:#4E6CC2;
+}
+
+.main{
+    margin:30px;
+}
+
+.content{
+    max-width:700px;
+}
+.about-img{
+    max-height:200px;
+    margin-right:20px;
+}
+
+/* Portflio / cards */
+.port-card{
+    width:200px;
+    height:200px;
+    overflow:hidden;
+    border:1px solid #D96936;
+    box-shadow:2px 2px 4px rgba(0,0,0,.6)
+}
+.port-card:hover{
+    border:1px solid #CCC476;
+    box-shadow:0px 0px 4px #D96936;
+}
+
