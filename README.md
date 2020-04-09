@@ -81,14 +81,17 @@ We would like you to have well over 200 commits by graduation, so commit early a
 You are required to submit the following:
 
 * The URLs of the deployed applications
-
+https://khanhhoang1988.github.io/Homework2/
 * The URLs of the GitHub repositories
+https://github.com/KHANHHOANG1988/Homework2.git
 
 ## Completed
 * Using bootstrap to create Nav bar, responsive layout and images
 * Using font awesome to create different icons and link to linkedin
+* Updated portfolio with homeworks and project 1
+* Updated profiles on github and Linken
+* Sreenshot URL
 ## Incomplete
 * No bio is included because i couldnt think of one. 
-* Thumbnail was used because i couldnt find any good photos
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
