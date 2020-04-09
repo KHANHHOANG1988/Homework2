@@ -90,7 +90,8 @@ https://github.com/KHANHHOANG1988/Homework2.git
 * Using font awesome to create different icons and link to linkedin
 * Updated portfolio with homeworks and project 1
 * Updated profiles on github and Linken
-* Sreenshot URL
+* Sreenshot URL:
+https://github.com/KHANHHOANG1988/Homework2/blob/master/assets/image/Portfolio.png
 ## Incomplete
 * No bio is included because i couldnt think of one. 
 
